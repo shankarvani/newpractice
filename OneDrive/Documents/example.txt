@@ -1,0 +1,5 @@
+$1$YBo4OcaP$L/zMAeAkBwGTqm4zib2FQ1
+
+If you don't know the location of the file use find command.
+
+find / -name MY_FILE
